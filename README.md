@@ -12,7 +12,7 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
   - [지도 학습과 비지도 학습, 강화 학습](#지도-학습과-비지도-학습,-강화-학습)
   - [k-최근접 이웃 알고리즘(K-Nearest Neighbor)](#k-최근접-이웃-알고리즘(K-Nearest-Neighbor))
 - [3. Day03](#Day03)
-  - [데이터 전처리](#데이터 전처리)
+  - [데이터 전처리](#데이터-전처리)
   - [Day03.pynb에 대한 설명](#Day03.pynb에-대한-설명)
 - [4. Day04](#Day04)
   - [k-최근접 이웃 회귀 (KNN-Regression)](#k-최근접-이웃-회귀-(KNN-Regression))
