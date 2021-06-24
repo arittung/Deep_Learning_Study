@@ -5,7 +5,8 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
 위 링크에 작성된 내용에 기반한 코드.<br><br><br>
 
 ## 목차
-- [Day01](#Day01)
+- [1. Day01](#Day01)
+  - 인공지능과 머신러닝, 딥러닝이란?(#인공지능과-머신러닝,-딥러닝이란?)
 - [2. Day02](#Day02)
 - [3. Day03](#Day03)
 - [4. Day04](#Day04)
