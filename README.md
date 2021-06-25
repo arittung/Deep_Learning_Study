@@ -9,17 +9,19 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
   - [인공지능과 머신러닝, 딥러닝이란?](#인공지능과-머신러닝,-딥러닝이란?)
   - [퍼셉트론](#퍼셉트론)
 - [2. Day02](#Day02)
-  - [지도 학습과 비지도 학습, 강화 학습](#지도-학습과-비지도-학습,-강화-학습)
+  - [지도 학습과 비지도 학습, 강화 학습](#지도-학습과-비지도-학습-강화-학습)
   - [k-최근접 이웃 알고리즘(K-Nearest Neighbor)](#k-최근접-이웃-알고리즘(K-Nearest-Neighbor))
 - [3. Day03](#Day03)
   - [데이터 전처리](#데이터-전처리)
-  - [Day03.pynb에 대한 설명](#Day03.pynb에-대한-설명)
+  - [Day03.pynb에 대한 설명](#day03pynb에-대한-설명)
 - [4. Day04](#Day04)
-  - [k-최근접 이웃 회귀 (KNN-Regression)](#k-최근접-이웃-회귀-(KNN-Regression))
- 
- <br>
- 
-- [참고 도서](#참고-도서)
+  - [k-최근접 이웃 회귀 (KNN-Regression)](#k-최근접-이웃-회귀-knn-regression)
+- [5. Day05](#Day05)
+  - [선형 회귀 (Linear-Regression)](#선형-회귀-linear-Regression)
+
+
+
+<Br>
 <br>
 
 ---
@@ -72,7 +74,24 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
     - 과소 적합(Underfitting)
   - KNN-Regression 구현 코드
 
- 
+ <br>
+
+
+## Day05
+#### 선형 회귀 (Linear-Regression)
+  - 손실(Loss)
+    - 평균 제곱 오차(MSE, Mean Squared Error)
+    - 평균 절대 오차(MAE, Mean Absolute Error)
+  - 경사 하강법 (Gradient Descent)
+  - 수렴(Convergence)
+  - 과소 적합(Underfitting)
+  - 학습률 (Learning Rate)
+  - 다항 회귀 (Polynomial Regression)
+  - 구현 코드
+
+
+
+
 
 
 <br><br>
