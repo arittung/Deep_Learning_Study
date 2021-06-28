@@ -17,8 +17,12 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
 - [4. Day04](#Day04)
   - [k-최근접 이웃 회귀 (KNN-Regression)](#k-최근접-이웃-회귀-knn-regression)
 - [5. Day05](#Day05)
-  - [선형 회귀 (Linear-Regression)](#선형-회귀-linear-Regression)
-
+  - [선형 회귀 (Linear-Regression)](#선형-회귀-linear-regression)
+- [6. Day06](#Day06)
+  - [다중 회귀 (Multiple-Regression)](#다중-회귀-multiple-regression)
+  - [특성 공학 (Feature Engineering)](#특성-공학-feature-engineering)
+  - [판다스 (Pandas)](#판다스-pandas)
+  - [규제 (Regularization)](#규제-regularization)
 
 
 <Br>
@@ -89,7 +93,19 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
   - 다항 회귀 (Polynomial Regression)
   - 구현 코드
 
+ <br>
 
+
+## Day06
+#### 다중 회귀 (Multiple Regression)
+#### 특성 공학 (Feature Engineering)
+#### 판다스 (Pandas)
+#### 규제 (Regularization)
+  - 규제의 필요성
+  - 릿지 회귀 (Ridge Regression)와 라쏘 회귀 (Lasso Regression), 엘라스틱 넷 회귀 (ElasticNet Regression)
+    - 릿지 회귀
+    - 라쏘 회귀
+    - 엘라스틱 넷 회귀
 
 
 
