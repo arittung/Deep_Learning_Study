@@ -23,6 +23,10 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
   - [특성 공학 (Feature Engineering)](#특성-공학-feature-engineering)
   - [판다스 (Pandas)](#판다스-pandas)
   - [규제 (Regularization)](#규제-regularization)
+- [7. Day07](#Day07)
+  - [다중 분류 (Multi-Class Classification)](#다중-분류-multi-class-classification)
+  - [로지스틱 회귀 (Logistic Regression)](#로지스틱-회귀-logistic-regression)
+  - [시그모이드 함수와 소프트맥스 함수](#시그모이드-함수와-소프트맥스-함수)
 
 
 <Br>
@@ -107,6 +111,14 @@ https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0
     - 라쏘 회귀
     - 엘라스틱 넷 회귀
 
+ <br>
+
+## Day07
+#### 다중 분류 (Multi-Class Classification)
+#### 로지스틱 회귀 (Logistic Regression)
+#### 시그모이드 함수와 소프트맥스 함수
+  - 시그모이드 함수 (Sigmoid Function, 로지스틱 함수(Logistic Function))
+  - 소프트맥스 함수(SoftMax Function)
 
 
 
