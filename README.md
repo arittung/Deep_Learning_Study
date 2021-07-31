@@ -5,7 +5,7 @@
 위 링크에 작성된 내용에 기반한 코드.<br><br><br>
 
 ## 목차
-- [1. Day01](#Day01)
+- [1. Day01](../Day01.ipynb)
   - [인공지능과 머신러닝, 딥러닝이란?](#인공지능과-머신러닝,-딥러닝이란?)
   - [퍼셉트론](#퍼셉트론)
 - [2. Day02](#Day02)
@@ -28,21 +28,26 @@
   - [로지스틱 회귀 (Logistic Regression)](#로지스틱-회귀-logistic-regression)
   - [시그모이드 함수와 소프트맥스 함수](#시그모이드-함수와-소프트맥스-함수)
 - [8. Day08](#Day08)
-#### 경사하강법 (Gradient Descent)[]
-  - 경사하강법 Step Size
-  - 경사하강법 진행 순서
-  - 경사하강법의 문제점과 해결 방법
-    - 문제점
-    - 해결방법: 모멘텀 (Momentum)
-  - 배치 사이즈 (Batch Size)
-#### 확률적 경사 하강법 (SGD, Stochastic Grandient Descent)
-  - 특징
-  - 에포크 (Epoch)
-#### 미니 배치 경사 하강법 (Mini-batch Gradient Descent)
-#### 손실함수 (Loss Function, 비용함수(Cost Function))
-
-
-
+  - [경사하강법 (Gradient Descent)](#경사하강법-gradient-descent-1)
+  - [확률적 경사 하강법 (SGD, Stochastic Grandient Descent)](#확률적-경사-하강법-sgd-stochastic-grandient-descent-1)
+  - [미니 배치 경사 하강법 (Mini-batch Gradient Descent)](#미니-배치-경사-하강법-mini-batch-gradient-descent-1)
+  - [손실함수 (Loss Function, 비용함수(Cost Function))](#손실함수-loss-function-비용함수cost-function-1)
+- [9. Day09](#Day09)
+  - [결정 트리 (Decision Tree, 의사 결정 트리)](결정-트리-decision-tree-의사-결정-트리)
+- [10. Day10](#Day10)
+  - [검증 세트 (Validation Set)](#검증-세트-validation-set)
+  - [교차 검증 (Cross Validation)](#교차-검증-cross-validation)
+  - [하이퍼파라미터 (HyperParameter)](#하이퍼파라미터-hyperparameter)
+  - [랜덤 서치 (Random Search)](#랜덤-서치-random-search)
+- [11. Day11](#Day11)
+  - [정형 데이터와 비정형 데이터](#정형-데이터와-비정형-데이터)
+  - [앙상블 학습 (Ensemble Learning)](#앙상블-학습-ensemble-learning)
+  - [랜덤 포레스트 (Random Forest)](#랜덤-포레스트-random-forest)
+  - [엑스트라 트리 (Extra Tree)](#엑스트라-트리-extra-tree)
+  - [그레이디언트 부스팅 (Gradient Boosting)](#그레이디언트-부스팅-gradient-boosting)
+  - [히스토그램 기반 그레이디언트 부스팅 (Histogram based Gradient Boosting)](#히스토그램-기반-그레이디언트-부스팅-histogram-based-gradient-boosting)
+- [12. Day12](#Day12)
+  - [군집 (Clustering, 클러스터링)](#군집-clustering-클러스터링)
 
 
 <br>
