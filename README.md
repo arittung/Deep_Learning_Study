@@ -1,6 +1,6 @@
 # 딥러닝 스터디
 
-[arittung.log - 딥러닝 스터디 시리즈](https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94) 참고
+[arittung.log - 딥러닝 스터디 시리즈](https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94) 참고.
 
 위 링크에 작성된 내용에 기반한 코드.<br><br><br>
 
@@ -27,9 +27,25 @@
   - [다중 분류 (Multi-Class Classification)](#다중-분류-multi-class-classification)
   - [로지스틱 회귀 (Logistic Regression)](#로지스틱-회귀-logistic-regression)
   - [시그모이드 함수와 소프트맥스 함수](#시그모이드-함수와-소프트맥스-함수)
+- [8. Day08](#Day08)
+#### 경사하강법 (Gradient Descent)[]
+  - 경사하강법 Step Size
+  - 경사하강법 진행 순서
+  - 경사하강법의 문제점과 해결 방법
+    - 문제점
+    - 해결방법: 모멘텀 (Momentum)
+  - 배치 사이즈 (Batch Size)
+#### 확률적 경사 하강법 (SGD, Stochastic Grandient Descent)
+  - 특징
+  - 에포크 (Epoch)
+#### 미니 배치 경사 하강법 (Mini-batch Gradient Descent)
+#### 손실함수 (Loss Function, 비용함수(Cost Function))
 
 
-<Br>
+
+
+
+<br>
 <br>
 
 ---
@@ -118,7 +134,81 @@
 #### 로지스틱 회귀 (Logistic Regression)
 #### 시그모이드 함수와 소프트맥스 함수
   - 시그모이드 함수 (Sigmoid Function, 로지스틱 함수(Logistic Function))
-  - 소프트맥스 함수(SoftMax Function)
+  - 소프트맥스 함수 (SoftMax Function)
+  
+ <br>
+
+## Day08
+#### 경사하강법 (Gradient Descent)
+  - 경사하강법 Step Size
+  - 경사하강법 진행 순서
+  - 경사하강법의 문제점과 해결 방법
+    - 문제점
+    - 해결방법: 모멘텀 (Momentum)
+  - 배치 사이즈 (Batch Size)
+#### 확률적 경사 하강법 (SGD, Stochastic Grandient Descent)
+  - 특징
+  - 에포크 (Epoch)
+#### 미니 배치 경사 하강법 (Mini-batch Gradient Descent)
+#### 손실함수 (Loss Function, 비용함수(Cost Function))
+  - 평균 제곱 오차와 크로스 엔트로피
+    - 평균 제곱 오차(Mean Square Error, MSE)
+    - 교차 엔트로피 오차 (Cross Entropy Error, CEE)
+  - 로지스틱 손실 함수 (Logistic loss Function, 이진 크로스엔트로피 손실 함수(Binary cross-entropy loss function))
+ 
+
+ <br>
+
+## Day09
+#### 결정 트리 (Decision Tree, 의사 결정 트리)
+   - 결정 트리 구조
+   - 결정 트리 알고리즘의 프로세스
+   - 불순도 (Impurity)와 지니 불순도 (Gini Impurity)
+   - 정보 이득 (Information Gain)
+   - 가지치기 (Pruning)
+
+ <br>
+
+## Day10
+#### 검증 세트 (Validation Set)
+  - 검증 세트 사용 방법
+#### 교차 검증 (Cross Validation)
+#### 하이퍼파라미터 (HyperParameter)
+#### 랜덤 서치 (Random Search)
+
+
+ <br>
+
+## Day11
+#### 정형 데이터와 비정형 데이터
+  - 정형 데이터 (Structed Data)
+  - 비정형 데이터 (Unstructured Data)
+#### 앙상블 학습 (Ensemble Learning)
+#### 랜덤 포레스트 (Random Forest)
+  - 부트스트랩 샘플 (Bootstrap Sample)
+#### 엑스트라 트리 (Extra Tree)
+#### 그레이디언트 부스팅 (Gradient Boosting)
+#### 히스토그램 기반 그레이디언트 부스팅 (Histogram based Gradient Boosting)
+
+
+
+ <br>
+
+## Day12
+#### 군집 (Clustering, 클러스터링)
+  - 클러스터 (Cluster, 부분 그룹)
+  - 센트로이드 (Centroid, 클러스터 중심(Cluster Center))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
