@@ -1,4 +1,4 @@
-## Fahion MNIST 구현
+# Fahion MNIST 구현
 
 #### ✅ [Air - [CNN] Convolution으로 Accuracy 높이기 (Fashion MNIST, TensorFlow)](https://airsbigdata.tistory.com/219) 코드 구현.
 
