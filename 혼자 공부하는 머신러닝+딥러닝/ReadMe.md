@@ -1,8 +1,9 @@
 # 딥러닝 스터디
 
-[arittung.log - 딥러닝 스터디 시리즈](https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94) 참고.
+> [arittung.log - 딥러닝 스터디 시리즈](https://velog.io/@arittung/series/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8A%A4%ED%84%B0%EB%94%94) 에 작성된 내용에 기반한 코드.
 
-위 링크에 작성된 내용에 기반한 코드.<br><br><br>
+<br><br>
+
 
 ## 목차
 - [Day01](#day01)
