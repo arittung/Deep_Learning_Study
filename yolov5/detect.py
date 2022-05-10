@@ -156,19 +156,14 @@ def run(
                 det[:, :4] = scale_coords(im.shape[2:], det[:, :4], im0.shape).round()
 
                 # Print results
-                
                 for c in det[:, -1].unique():
                     n = (det[:, -1] == c).sum()  # detections per class
-                    #total += n
-                    total += int(f"{n}")
-                    #print(f"{n}")
                     
+                    total += int(f"{n}")
+
                     s += f"{n} {names[int(c)]}{'s' * (n > 1)}, "  # add to string
-                    #print(s)
                 print("------------------------", total)
-                
-                
-                #print(total)
+
                 # Write results
                 for *xyxy, conf, cls in reversed(det):
                     
@@ -181,7 +176,6 @@ def run(
                     if save_img or save_crop or view_img:  # Add bbox to image
                         c = int(cls)  # integer class
                         label = None if hide_labels else (names[c] if hide_conf else f'{names[c]} {conf:.2f}')
-                        
                         annotator.box_label(xyxy, label, color=colors(c, True))
                         #print(annotator)
                         
@@ -189,8 +183,6 @@ def run(
                             save_one_box(xyxy, imc, file=save_dir / 'crops' / names[c] / f'{p.stem}.jpg', BGR=True)
 
             # Stream results
-            
-            
             im0 = annotator.result()
             im0 = cv2.putText(im0, "total : "+str(total), (20, 200), 0, 2, (255, 255, 255), 2, 8);
             #if view_img:
