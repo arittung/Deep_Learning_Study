@@ -80,7 +80,7 @@ python train.py --img 640 --batch 16 --epochs 20 --data ./dataset/data.yaml --cf
 ```
 
 
-- detect 결과 파일은 runs/detect/exp 에서 확인할 수 있다.
+- detect 결과 파일은 **runs/detect/exp** 에서 확인할 수 있다.
 
 ```
 python detect.py --source cctv.mp4 
