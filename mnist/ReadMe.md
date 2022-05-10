@@ -4,11 +4,11 @@
 
 <br>
 
-## 📊 MNIST 데이터 셋으로 학습된 모델 사용 👉 검증 정확도 : 0.9837
+## 1. MNIST 데이터 셋으로 학습된 모델 사용 👉 검증 정확도 : 0.9837
 
 <img src="https://user-images.githubusercontent.com/53934639/160542179-ed0bba6c-2832-405d-a717-3bfa78eed8c2.png" style="width:500px">
 
 <br>
 
-## ⚡ 직접 작성한 손글씨로 실행해본 결과.
+## 2. 직접 작성한 손글씨로 실행해본 결과.
 <img src="https://user-images.githubusercontent.com/53934639/160542058-42f737f2-7b28-452f-9eae-93e22ad146f9.png" style="width:500px">
