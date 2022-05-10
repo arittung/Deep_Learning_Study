@@ -2,7 +2,7 @@
 
 
 ### 1. 환경 세팅하기
-- [yolov5 학습 튜토리얼](https://lynnshin.tistory.com/47) 참고하여 **"1. 환경 세팅"**까지 완료할 것
+- [yolov5 학습 튜토리얼](https://lynnshin.tistory.com/47) 참고하여 **1. 환경 세팅**까지 완료할 것
 
 <br>
 
