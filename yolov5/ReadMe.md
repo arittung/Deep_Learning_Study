@@ -90,6 +90,6 @@ python detect.py --source cctv.mp4
 
 ### 🙂 결과물
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/53934639/167775941-a89183f1-2ea6-44a4-a326-bd256bdf90c0.gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/53934639/167776033-0862dbe2-c10d-417a-b104-db6fff6301e4.gif)
 
 
