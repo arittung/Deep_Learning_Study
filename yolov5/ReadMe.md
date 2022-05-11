@@ -51,7 +51,7 @@ python train.py --img 640 --batch 16 --epochs 20 --data ./dataset/data.yaml --cf
 - 이때, **차량의 총 개수를 파악**하기 위해 **detect.py**를 수정했다.
 
   - line 153에 total 변수 초기화하여 line 162에서 각 차량 숫자 더해준다.
-  - 현재는 테스트한 video에 모두 차량만 나와서 잘 작동했지만, 사람과 표지판 등 이외의 것이 나올 경우, 그 숫자를 제거하는 코드도 필요하다.
+
 ```
             total = 0
             if len(det):
