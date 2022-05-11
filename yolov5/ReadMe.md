@@ -27,6 +27,12 @@
 
 - **preprocessing.ipynb** 파일을 통해 이미지의 주소들을 txt파일로 모아준 뒤 경로를 재설정 해준다.
 
+- 학습을 시키기 전 **YOLOv5의 모델 중 어떤 것을 사용할지 결정**한다.(나는 YOLOv5s 사용했다)
+  - 크기가 크면 클수록 복잡해지고 정확성이 높아지는 대신, 시간이 오래걸리고 GPU의 메모리를 많이 차지한다.
+![image](https://user-images.githubusercontent.com/53934639/167777596-aa4a2a1a-83dd-44a3-a9e2-68348f01ef8c.png)
+
+
+
 - 다음 코드를 통해 학습을 시작한다.
   - parameter 종류
     - --img : 이미지 크기
