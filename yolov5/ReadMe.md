@@ -90,7 +90,7 @@ python train.py --img 640 --batch 16 --epochs 20 --data ./dataset/data.yaml --cf
 - detect 결과 파일은 **runs/detect/exp** 에서 확인할 수 있다.
 
 ```
-python detect.py --source cctv.mp4 
+python detect.py --source cctv.mp4 --weights ./runs/train/yolov5_cars/weights/best.pt --img 640 --conf 0.5 
 ```
 
 <br>
