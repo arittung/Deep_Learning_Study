@@ -1,0 +1,10 @@
+names:
+- Ambulance
+- Bus
+- Car
+- Motorcycle
+- Truck
+nc: 5
+train: ./dataset/train.txt
+val: ./dataset/valid.txt
+valid: ./dataset/valid.txt
