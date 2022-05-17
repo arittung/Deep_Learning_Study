@@ -93,7 +93,7 @@ python train.py --img 640 --batch 16 --epochs 20 --data ./dataset/data.yaml --cf
 python detect.py --source ./video/cctv.mp4 --weights ./runs/train/yolov5_cars/weights/best.pt --img 640 --conf 0.5 
 ```
 
-- 아래 결과는 다음 코드를 넣었을 때 나오는 결과인데, 실제 내가 car dataset으로 학습한 결과는 정확도가 매우 떨어졌다.
+- 아래 결과는 다음 코드를 넣었을 때 **(그냥 YOLOv5)** 나오는 결과인데, 실제 내가 **car dataset으로 학습한 결과**는 **정확도가 매우 떨어졌다.**
 
 ```
 python detect.py --source ./video/cctv.mp4
