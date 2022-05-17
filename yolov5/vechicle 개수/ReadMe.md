@@ -86,6 +86,9 @@ python train.py --img 640 --batch 16 --epochs 20 --data ./dataset/data.yaml --cf
             cv2.waitKey(30)  # 1 millisecond
 ```
 
+<br>
+
+-----
 
 - detect 결과 파일은 **runs/detect/exp** 에서 확인할 수 있다.
 
