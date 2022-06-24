@@ -49,7 +49,7 @@ plt.show()
 
 # model evaluation
 print("[*] model evaluation")
-model.evaluation(val_scaled, val_target)
+model.evaluate(val_scaled, val_target)
 
 # new data prediction
 print("[*] new data prediction")
@@ -70,4 +70,4 @@ print(classes[np.argmax(preds)])
 # test set prediction
 print("[*] testset prediction Performance")
 test_scaled = test_input.reshape(-1, 28, 28, 1)/ 255.0
-model.evaluation(test_scaled, test_target)
+model.evaluate(test_scaled, test_target)
